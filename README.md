@@ -1,0 +1,4 @@
+cwncoin
+=======
+
+Coin Without Name
